@@ -1,0 +1,17 @@
+{
+  "configurations": [
+    {
+      "name": "WSL MPI",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "/home/q_7/intel/oneapi/mpi/2021.18/include"
+      ],
+      "defines": [],
+      "compilerPath": "/home/q_7/intel/oneapi/mpi/2021.18/bin/mpicxx",
+      "cStandard": "c17",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "linux-gcc-x64"
+    }
+  ],
+  "version": 4
+}
